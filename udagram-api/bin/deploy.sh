@@ -7,8 +7,8 @@ eb create Ebhostingafullstackapplication-env-1
 # eb deploy Ebhostingafullstackapplication-env-1
 
 #!/bin/bash
-eb init Udagramapi-env --platform node.js --region us-east-1 
-eb use Udagramapi-env --profile default
+eb init Ebhostingafullstackapplication-env --platform node.js --region us-east-1 
+eb use Ebhostingafullstackapplication-env --profile default
 eb deploy --profile default 
 
 
