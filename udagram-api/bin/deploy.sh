@@ -1,4 +1,4 @@
-# eb create Ebhostingafullstackapplication-env-1
+eb create Ebhostingafullstackapplication-env-1
 # eb use Ebhostingafullstackapplication-env-1
 
 
