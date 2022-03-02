@@ -11,7 +11,7 @@
 # Project Infrastructure
 
 ## Design Diagram
-![Architecture](../screanshot/data.png)
+![Architecture](https://raw.githubusercontent.com/AhmedAzzam2/Hosting-Full-Stack-Application/main/screanshot/data.png)
 
 ## AWS cloud stage
 ### Data set facilitating on RDS (postgreSQL)
