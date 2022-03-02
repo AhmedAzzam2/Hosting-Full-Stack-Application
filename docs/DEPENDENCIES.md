@@ -23,7 +23,7 @@ Udagram frontend application is sent utilizing AWS S3 Bucket at 'http://udagram-
 Clients can get to the Udagram application utilizing the above connect.
 # Pipeline Process
 ## CI/CD Pipeline Workflow
-![Pipeline](../screenshot/pipeline.png)
+![Pipeline](https://raw.githubusercontent.com/AhmedAzzam2/Hosting-Full-Stack-Application/main/screanshot/pipeline.png)
 ## Ceaseless Integration
 GitHub is connected to CircleCI and .circleci/config.yml is transferred in CircleCI project
 Whenever designers submit and push code changes to GitHub it inside triggers CircleCI
