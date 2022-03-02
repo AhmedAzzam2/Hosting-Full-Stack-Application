@@ -49,6 +49,7 @@ AWS RDS PostgreSQL Database info Sequelize: postgres://postgres:postgres@databas
 ### screen captures:
 
 * Fruitful work process
+<img src="https://github.com/AhmedAzzam2/Hosting-Full-Stack-Application/blob/main/screanshot/circleci%200.png" alt="Wowchemy Website Builder"  style="max-width: 100%;"> 
 <img src="https://github.com/AhmedAzzam2/Hosting-Full-Stack-Application/blob/main/screanshot/circleci%201.png" alt="Wowchemy Website Builder"  style="max-width: 100%;"> 
 <img src="https://github.com/AhmedAzzam2/Hosting-Full-Stack-Application/blob/main/screanshot/circleci%202.png" alt="Wowchemy Website Builder"  style="max-width: 100%;"> 
 <img src="https://github.com/AhmedAzzam2/Hosting-Full-Stack-Application/blob/main/screanshot/circleci%203.png" alt="Wowchemy Website Builder"  style="max-width: 100%;"> 
