@@ -1,6 +1,6 @@
 
-eb init Udagramapi-env --platform node.js --region us-east-2 
-eb use Udagramapi-env --profile default
+eb init Udagramapi-env-1 --platform node.js --region us-east-2 
+eb use Udagramapi-env-1 --profile default
 eb deploy --profile default 
 
 
