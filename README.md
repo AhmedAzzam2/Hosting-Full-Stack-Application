@@ -19,7 +19,7 @@ The project can run but is missing some information to connect to the database a
 
 #### fist created database on RSD
 ## RDS DB
-AWS RDS PostgreSQL Database URI: postgres://postgres:postgres@postgres.c90fq2n3mbnh.us-east-2.rds.amazonaws.com
+AWS RDS PostgreSQL Database info Sequelize: postgres://postgres:postgres@database-1.cjgo5oahfx0s.us-east-1.rds.amazonaws.com:5432/postgres
 
 <img src="https://github.com/AhmedAzzam2/Hosting-Full-Stack-Application/blob/main/screanshot/rds%201.png" alt="Wowchemy Website Builder"  style="max-width: 100%;"> 
 <img src="https://github.com/AhmedAzzam2/Hosting-Full-Stack-Application/blob/main/screanshot/rds%202.png" alt="Wowchemy Website Builder"  style="max-width: 100%;"> 
