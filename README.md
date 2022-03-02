@@ -18,6 +18,9 @@ The project can run but is missing some information to connect to the database a
 - Udagram Backend API URL: `http://udagramapi-env-1.eba-krg3r3gs.us-east-2.elasticbeanstalk.com/api/v0`
 
 #### fist created database on RSD
+## RDS DB
+AWS RDS PostgreSQL Database URI: postgres://postgres:postgres@postgres.c90fq2n3mbnh.us-east-2.rds.amazonaws.com
+
 <img src="https://github.com/AhmedAzzam2/Hosting-Full-Stack-Application/blob/main/screanshot/rds%201.png" alt="Wowchemy Website Builder"  style="max-width: 100%;"> 
 <img src="https://github.com/AhmedAzzam2/Hosting-Full-Stack-Application/blob/main/screanshot/rds%202.png" alt="Wowchemy Website Builder"  style="max-width: 100%;"> 
 <img src="https://github.com/AhmedAzzam2/Hosting-Full-Stack-Application/blob/main/screanshot/rds%203.png" alt="Wowchemy Website Builder"  style="max-width: 100%;"> 
