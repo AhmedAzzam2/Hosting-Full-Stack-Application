@@ -13,6 +13,14 @@ The project can run but is missing some information to connect to the database a
 
 ### Dependencies
 
+#### fist created database on RSD
+<img src="https://github.com/AhmedAzzam2/Hosting-Full-Stack-Application/blob/main/screanshot/rds%201.png" alt="Wowchemy Website Builder"  style="max-width: 100%;"> 
+<img src="https://github.com/AhmedAzzam2/Hosting-Full-Stack-Application/blob/main/screanshot/rds%202.png" alt="Wowchemy Website Builder"  style="max-width: 100%;"> 
+<img src="https://github.com/AhmedAzzam2/Hosting-Full-Stack-Application/blob/main/screanshot/rds%203.png" alt="Wowchemy Website Builder"  style="max-width: 100%;"> 
+<img src="https://github.com/AhmedAzzam2/Hosting-Full-Stack-Application/blob/main/screanshot/rds%204.png" alt="Wowchemy Website Builder"  style="max-width: 100%;"> 
+<img src="https://github.com/AhmedAzzam2/Hosting-Full-Stack-Application/blob/main/screanshot/rds%205.png" alt="Wowchemy Website Builder"  style="max-width: 100%;"> 
+<img src="https://github.com/AhmedAzzam2/Hosting-Full-Stack-Application/blob/main/screanshot/rds%206.png" alt="Wowchemy Website Builder"  style="max-width: 100%;"> 
+
 ```
 - Node v14.15.1 (LTS) or more recent. While older versions can work it is advisable to keep node to latest LTS version
 
