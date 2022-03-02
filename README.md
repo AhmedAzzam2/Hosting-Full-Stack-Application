@@ -13,6 +13,10 @@ The project can run but is missing some information to connect to the database a
 
 ### Dependencies
 
+## Frontend and backend API URLs
+- Udagram Frontend URL: `http://udagram-frontend-media-bucket.s3-website.us-east-2.amazonaws.com`
+- Udagram Backend API URL: `http://udagramapi-env-1.eba-krg3r3gs.us-east-2.elasticbeanstalk.com/api/v0`
+
 #### fist created database on RSD
 <img src="https://github.com/AhmedAzzam2/Hosting-Full-Stack-Application/blob/main/screanshot/rds%201.png" alt="Wowchemy Website Builder"  style="max-width: 100%;"> 
 <img src="https://github.com/AhmedAzzam2/Hosting-Full-Stack-Application/blob/main/screanshot/rds%202.png" alt="Wowchemy Website Builder"  style="max-width: 100%;"> 
@@ -21,18 +25,22 @@ The project can run but is missing some information to connect to the database a
 <img src="https://github.com/AhmedAzzam2/Hosting-Full-Stack-Application/blob/main/screanshot/rds%205.png" alt="Wowchemy Website Builder"  style="max-width: 100%;"> 
 <img src="https://github.com/AhmedAzzam2/Hosting-Full-Stack-Application/blob/main/screanshot/rds%206.png" alt="Wowchemy Website Builder"  style="max-width: 100%;"> 
 
-```
-- Node v14.15.1 (LTS) or more recent. While older versions can work it is advisable to keep node to latest LTS version
+#### 2 step created Elastic Beanstalk
+<img src="https://github.com/AhmedAzzam2/Hosting-Full-Stack-Application/blob/main/screanshot/elasticbeanstalk%201.png" alt="Wowchemy Website Builder"  style="max-width: 100%;"> 
+<img src="https://github.com/AhmedAzzam2/Hosting-Full-Stack-Application/blob/main/screanshot/elasticbeanstalk%202.png" alt="Wowchemy Website Builder"  style="max-width: 100%;"> 
+<img src="https://github.com/AhmedAzzam2/Hosting-Full-Stack-Application/blob/main/screanshot/elasticbeanstalk%203.png" alt="Wowchemy Website Builder"  style="max-width: 100%;"> 
+<img src="https://github.com/AhmedAzzam2/Hosting-Full-Stack-Application/blob/main/screanshot/elasticbeanstalk%204.png" alt="Wowchemy Website Builder"  style="max-width: 100%;"> 
 
-- npm 6.14.8 (LTS) or more recent, Yarn can work but was not tested for this project
+#### 3 step created S3
+<img src="https://github.com/AhmedAzzam2/Hosting-Full-Stack-Application/blob/main/screanshot/s%201.png" alt="Wowchemy Website Builder"  style="max-width: 100%;"> 
+<img src="https://github.com/AhmedAzzam2/Hosting-Full-Stack-Application/blob/main/screanshot/s3%202.png" alt="Wowchemy Website Builder"  style="max-width: 100%;"> 
+<img src="https://github.com/AhmedAzzam2/Hosting-Full-Stack-Application/blob/main/screanshot/s3%203.png" alt="Wowchemy Website Builder"  style="max-width: 100%;"> 
+<img src="https://github.com/AhmedAzzam2/Hosting-Full-Stack-Application/blob/main/screanshot/s3%204.png" alt="Wowchemy Website Builder"  style="max-width: 100%;"> 
 
-- AWS CLI v2, v1 can work but was not tested for this project
-
-- A RDS database running Postgres.
-
-- A S3 bucket for hosting uploaded pictures.
-
-```
+#### 4 step circleci
+<img src="https://github.com/AhmedAzzam2/Hosting-Full-Stack-Application/blob/main/screanshot/circleci%201.png" alt="Wowchemy Website Builder"  style="max-width: 100%;"> 
+<img src="https://github.com/AhmedAzzam2/Hosting-Full-Stack-Application/blob/main/screanshot/circleci%202.png" alt="Wowchemy Website Builder"  style="max-width: 100%;"> 
+<img src="https://github.com/AhmedAzzam2/Hosting-Full-Stack-Application/blob/main/screanshot/circleci%203.png" alt="Wowchemy Website Builder"  style="max-width: 100%;"> 
 
 ### Installation
 
