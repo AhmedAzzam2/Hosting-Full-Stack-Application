@@ -4,7 +4,7 @@ This application is provided to you as an alternative starter project if you do 
 
 ## Getting Started
 
-1. Clone this repo locally into the location of your choice.
+1. Clone this repo locally into the location of your choice. [GitHub repo](https://github.com/udacity/nd0067-c4-deployment-process-project-starter) 
 1. Move the content of the udagram folder at the root of the repository as this will become the main content of the project.
 1. Open a terminal and navigate to the root of the repo
 1. follow the instructions in the installation step
@@ -12,6 +12,14 @@ This application is provided to you as an alternative starter project if you do 
 The project can run but is missing some information to connect to the database and storage service. These will be setup during the course of the project
 
 ### Dependencies
+
+#### fist created database on RSD
+<img src="https://github.com/AhmedAzzam2/Hosting-Full-Stack-Application/blob/main/screanshot/rds%201.png" alt="Wowchemy Website Builder"  style="max-width: 100%;"> 
+<img src="https://github.com/AhmedAzzam2/Hosting-Full-Stack-Application/blob/main/screanshot/rds%202.png" alt="Wowchemy Website Builder"  style="max-width: 100%;"> 
+<img src="https://github.com/AhmedAzzam2/Hosting-Full-Stack-Application/blob/main/screanshot/rds%203.png" alt="Wowchemy Website Builder"  style="max-width: 100%;"> 
+<img src="https://github.com/AhmedAzzam2/Hosting-Full-Stack-Application/blob/main/screanshot/rds%204.png" alt="Wowchemy Website Builder"  style="max-width: 100%;"> 
+<img src="https://github.com/AhmedAzzam2/Hosting-Full-Stack-Application/blob/main/screanshot/rds%205.png" alt="Wowchemy Website Builder"  style="max-width: 100%;"> 
+<img src="https://github.com/AhmedAzzam2/Hosting-Full-Stack-Application/blob/main/screanshot/rds%206.png" alt="Wowchemy Website Builder"  style="max-width: 100%;"> 
 
 ```
 - Node v14.15.1 (LTS) or more recent. While older versions can work it is advisable to keep node to latest LTS version
