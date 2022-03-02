@@ -41,12 +41,14 @@ AWS RDS PostgreSQL Database info Sequelize: postgres://postgres:postgres@databas
 <img src="https://github.com/AhmedAzzam2/Hosting-Full-Stack-Application/blob/main/screanshot/s3%204.png" alt="Wowchemy Website Builder"  style="max-width: 100%;"> 
 
 #### 4 step circleci
-CI/CD pipeline
-The CircleCi is connected to the undertaking on Github.
-It is utilized to naturally send the site to the AWS.
-It is set to naturally execute once the code is being driven into the expert Github project.
-screen captures:
-Fruitful work process
+### CI/CD pipeline
+* The CircleCi is connected to the venture on Github.
+* It is utilized to consequently convey the site to the AWS.
+* It is set to consequently execute once the code is being driven into the expert Github project.
+
+### screen captures:
+
+* Fruitful work process
 <img src="https://github.com/AhmedAzzam2/Hosting-Full-Stack-Application/blob/main/screanshot/circleci%201.png" alt="Wowchemy Website Builder"  style="max-width: 100%;"> 
 <img src="https://github.com/AhmedAzzam2/Hosting-Full-Stack-Application/blob/main/screanshot/circleci%202.png" alt="Wowchemy Website Builder"  style="max-width: 100%;"> 
 <img src="https://github.com/AhmedAzzam2/Hosting-Full-Stack-Application/blob/main/screanshot/circleci%203.png" alt="Wowchemy Website Builder"  style="max-width: 100%;"> 
